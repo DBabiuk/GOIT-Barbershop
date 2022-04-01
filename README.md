@@ -1,1 +1,2 @@
-# GOIT-Barbershop
+https://dbabiuk.github.io/GOIT-Barbershop/
+#GOIT-Barbershop
